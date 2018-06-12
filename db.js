@@ -1,5 +1,4 @@
-{
-  "pokemons": [
+let pokedex = [
     {
       "height": 10,
       "weight": 130,
@@ -7328,4 +7327,4 @@
       }
     }
   ]
-}
+
